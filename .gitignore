@@ -38,3 +38,6 @@ terraform.rc
 *.pem
 id_rsa_azure_vm
 id_rsa_azure_vm.pub
+
+#Ignore IDE specific files
+.vscode/
